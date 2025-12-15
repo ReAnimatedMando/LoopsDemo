@@ -1,0 +1,14 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\bin\Debug\net10.0\LoopsDemo.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\bin\Debug\net10.0\LoopsDemo.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\bin\Debug\net10.0\LoopsDemo.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\bin\Debug\net10.0\LoopsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\bin\Debug\net10.0\LoopsDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\refint\LoopsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\LoopsDemo.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsDemo\LoopsDemo\obj\Debug\net10.0\ref\LoopsDemo.dll
